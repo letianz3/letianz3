@@ -42,7 +42,7 @@ class Leo:
   <tr>
     <td colspan="2" valign="top">
       <h3>🎮 <a href="https://github.com/letianz3/sanguosha-ios-general-port">sanguosha-ios-general-port</a> <sub>· side quest</sub></h3>
-      My offline copy of 三国杀 was missing a hero, so I reverse-engineered the iOS client and patched him in. 49 versions later, his skill finally works end to end. ⚔️
+      A hobby project: bringing a missing hero to the offline iOS client of 三国杀. Instead of writing his skill from scratch, I reverse-engineered the client and assembled it from existing in-game modules (prompts, card-selection panel, card movement, damage pipeline). ⚔️
     </td>
   </tr>
 </table>
