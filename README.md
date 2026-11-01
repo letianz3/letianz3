@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/letian-zhang3"><img src="https://img.shields.io/badge/LinkedIn-letian--zhang3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/letianz3?tab=followers"><img src="https://img.shields.io/github/followers/letianz3?style=for-the-badge&logo=github&label=Followers&color=7F7FD5" alt="followers"></a>
   <a href="https://github.com/letianz3"><img src="https://komarev.com/ghpvc/?username=letianz3&style=for-the-badge&color=86A8E7&label=Profile+views" alt="profile views"></a>
 </p>
 
