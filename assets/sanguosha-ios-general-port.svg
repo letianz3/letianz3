@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="170" viewBox="0 0 440 170">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8E0E00"/><stop offset="1" stop-color="#C0392B"/></linearGradient></defs>
+<style>
+.t{font:700 19px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
+.d{font:400 12.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;fill-opacity:.92}
+.b{font:600 11.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8E0E00}
+.pill{font:600 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
+.card{animation:fade .8s ease-out both}@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<g>
+<rect width="440" height="170" rx="16" fill="url(#g)"/>
+<circle cx="410" cy="-10" r="70" fill="#fff" fill-opacity="0.08"/><circle cx="430" cy="190" r="55" fill="#fff" fill-opacity="0.06"/>
+<text x="24" y="44" class="t">🎮  sanguosha-ios-general-port</text>
+<text x="24" y="74" class="d">Hobby project: a missing hero for the offline iOS client,</text>
+<text x="24" y="92" class="d">assembled from existing in-game modules via RE.</text>
+<rect x="24" y="102" width="139.3" height="20" rx="10" fill="#fff"/>
+<text x="93.65" y="116" text-anchor="middle" class="b">Side quest · v49a</text>
+<rect x="24" y="128" width="56.0" height="22" rx="11" fill="#ffffff" fill-opacity="0.22"/><text x="52.0" y="143" text-anchor="middle" class="pill">ARM64</text><rect x="88.0" y="128" width="106.4" height="22" rx="11" fill="#ffffff" fill-opacity="0.22"/><text x="141.2" y="143" text-anchor="middle" class="pill">Reverse eng.</text><rect x="202.4" y="128" width="41.6" height="22" rx="11" fill="#ffffff" fill-opacity="0.22"/><text x="223.20000000000002" y="143" text-anchor="middle" class="pill">iOS</text>
+</g></svg>
