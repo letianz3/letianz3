@@ -41,7 +41,6 @@ class Leo:
 - 🤖 Making agents **verify** before they answer
 - 🧪 Running **trace-driven** evals, one failure at a time
 - 🧩 Tinkering with **reverse engineering** on the side
-- 🌱 Open to **AI agent** roles and collaborations
 
 </td>
 </tr>
@@ -66,6 +65,13 @@ class Leo:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letianz3&theme=default" width="90%" alt="profile details">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letianz3/letianz3/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/letianz3/letianz3/output/snake.svg" width="90%" alt="contribution snake">
+  </picture>
 </p>
 
 <p align="center">
